@@ -18,4 +18,3 @@ forge 'https://forge.puppet.com'
 
 mod 'apache',
   :git => 'git@github.com:andrewdotcudzilo/puppet-apache.git'
-~
