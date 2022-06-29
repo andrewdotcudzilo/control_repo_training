@@ -15,7 +15,7 @@ mod 'puppetlabs-ntp', '8.0.0'
 mod 'apache',
   :git => 'git@github.com:andrewdotcudzilo/puppet-apache.git'
 
-mode 'base',
+mod 'base',
   :git => 'git@github.com:andrewdotcudzilo/puppet-base.git'
 
 #mod 'apache',
